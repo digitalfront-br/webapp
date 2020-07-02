@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Home",
+        "path": "/"
+    },
+    {
+        "titulo": "Gastronomia",
+        "path": "/gastronomia"
+    },
+    {
+        "titulo": "Ambientes",
+        "path": "/ambientes"
+    },
+    {
+        "titulo": "Eventos",
+        "path": "/eventos"
+    },
+    {
+        "titulo": "Registros",
+        "path": "/registros"
+    },
+    {
+        "titulo": "Localização",
+        "path": "/localizacao"
+    },
+    {
+        "titulo": "Contato",
+        "path": "/contato"
+    }
+]
